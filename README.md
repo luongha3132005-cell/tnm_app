@@ -2,7 +2,10 @@
 
 | Đăng Nhập / Đăng Ký | Danh Sách Sản Phẩm | Lọc & Trạng Thái |
 | :---: | :---: | :---: |
-| ![Auth Screen](https://via.placeholder.com/220x450?text=Login+Screen) | ![Product List](https://via.placeholder.com/220x450?text=Product+List) | ![Filter Screen](https://via.placeholder.com/220x450?text=Product+Filter) |
+| ![Auth Screen](<img width="339" height="717" alt="Screenshot 2026-09-05 061023" src="https://github.com/user-attachments/assets/2f1b1305-ae68-48fe-a473-082d027d9861" />
+) | ![Product List](<img width="342" height="719" alt="Screenshot 2026-09-05 061151" src="https://github.com/user-attachments/assets/6e72a6fb-4f33-40cb-b2c8-ee5f86974b4c" />
+) | ![Filter Screen](<img width="344" height="723" alt="Screenshot 2026-09-05 061200" src="https://github.com/user-attachments/assets/dbb7f4b5-a248-4ea4-8bfc-a265848f14a5" />
+) |
 
 ---
 
@@ -56,6 +59,7 @@ tnm_app/
 │   │       └── widgets/            # ProductCard, FilterChip, EmptyState,...
 │   └── main.dart                   # Điểm khởi chạy ứng dụng (Entry point)
 └── pubspec.yaml
+```
 
 ## Hướng Dẫn Cài Đặt và Khởi Chạy Dự Án
 
