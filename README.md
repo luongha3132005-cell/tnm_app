@@ -2,8 +2,7 @@
 
 | Đăng Nhập / Đăng Ký | Danh Sách Sản Phẩm | Lọc & Trạng Thái |
 | :---: | :---: | :---: |
-| ![Auth Screen](<img width="339" height="717" alt="Screenshot 2026-09-05 061023" src="https://github.com/user-attachments/assets/2f1b1305-ae68-48fe-a473-082d027d9861" />
-) | ![Product List](<img width="342" height="719" alt="Screenshot 2026-09-05 061151" src="https://github.com/user-attachments/assets/6e72a6fb-4f33-40cb-b2c8-ee5f86974b4c" />) | ![Filter Screen](<img width="344" height="723" alt="Screenshot 2026-09-05 061200" src="https://github.com/user-attachments/assets/dbb7f4b5-a248-4ea4-8bfc-a265848f14a5" />) |
+| ![Auth Screen]<img width="339" height="717" alt="Screenshot 2026-09-05 061023" src="https://github.com/user-attachments/assets/2f1b1305-ae68-48fe-a473-082d027d9861" /> | ![Product List]<img width="342" height="719" alt="Screenshot 2026-09-05 061151" src="https://github.com/user-attachments/assets/6e72a6fb-4f33-40cb-b2c8-ee5f86974b4c" /> | ![Filter Screen]<img width="344" height="723" alt="Screenshot 2026-09-05 061200" src="https://github.com/user-attachments/assets/dbb7f4b5-a248-4ea4-8bfc-a265848f14a5" />|
 
 ---
 
